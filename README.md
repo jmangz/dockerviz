@@ -3,7 +3,7 @@ Because Docker is in wide use at the enterprise level by many professionals from
 
 Spin is a cross-platform desktop application that visualizes images, containers and multi-container apps. The goal of the app is to solve issues regarding lack of support for Docker compose and visualizing multi-container apps.
 
-<iframe src='https://gfycat.com/ifr/FloweryGentleIguana' frameborder='0' scrolling='no' allowfullscreen width='640' height='411'></iframe>
+![GIF](https://thumbs.gfycat.com/FloweryGentleIguana-size_restricted.gif)
 
 ## Simple and fast visualization
 Spin allows for quickly composing up and down multi-container apps, while keeping track of containers that are offline or currently running
